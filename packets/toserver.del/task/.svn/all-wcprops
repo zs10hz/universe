@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toserver/task
+END
+toserver_task_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_process.h
+END
+toserver_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task.h
+END
+toserver_task_query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_query.cpp
+END
+toserver_task_delete.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_delete.h
+END
+toserver_task_modify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_modify.cpp
+END
+toserver_task_add.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_add.cpp
+END
+toserver_task_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_query.h
+END
+toserver_task_modify.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_modify.h
+END
+toserver_task_add.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_add.h
+END
+toserver_task_process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_process.cpp
+END
+toserver_task.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task.cpp
+END
+toserver_task_delete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/task/toserver_task_delete.cpp
+END

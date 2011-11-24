@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toclient/login
+END
+toclient_login_failed.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toclient/login/toclient_login_failed.h
+END
+toclient_login_accept.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toclient/login/toclient_login_accept.cpp
+END
+toclient_login_accept.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toclient/login/toclient_login_accept.h
+END
+toclient_login_failed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toclient/login/toclient_login_failed.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toserver/login
+END
+toserver_login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toserver/login/toserver_login.cpp
+END
+toserver_login.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toserver/login/toserver_login.h
+END

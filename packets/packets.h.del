@@ -1,0 +1,20 @@
+#ifndef PACKETSH
+#define PACKETSH
+
+class CPacket;
+
+#include <string>
+using namespace std;
+
+#include "packet.h"
+
+#include "common_user.h"
+#include "common_task.h"
+#include "common_array.h"
+#include "common_sock.h"
+#include "common_command.h"
+
+#include "toserver_packets.h"
+#include "toclient_packets.h"
+
+#endif

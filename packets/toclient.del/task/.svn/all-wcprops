@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaskControlRep/!svn/ver/131/trunc/packets/toclient/task
+END
+toclient_task_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaskControlRep/!svn/ver/164/trunc/packets/toclient/task/toclient_task_list.cpp
+END
+toclient_task.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toclient/task/toclient_task.cpp
+END
+toclient_task_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toclient/task/toclient_task_list.h
+END
+toclient_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaskControlRep/!svn/ver/150/trunc/packets/toclient/task/toclient_task.h
+END
